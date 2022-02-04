@@ -1,4 +1,4 @@
-# Character
+# Player Character
 ***NAME:***
 _Favor Points:_
 
