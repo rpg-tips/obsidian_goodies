@@ -1,4 +1,5 @@
 # obsidian_goodies
+
 Templates, random tables, character sheets and other stuff for playing solo RPGs with Obsidian.
 
 ## Recommended plugins:
@@ -23,3 +24,7 @@ Templates, random tables, character sheets and other stuff for playing solo RPGs
 - Timelines.
 - Tag Wrangler.
 - Gallery.
+
+## Extras
+
+- [Publish to Github Pages](https://github.com/spacegiant/obsidian-github-pages-starter)
